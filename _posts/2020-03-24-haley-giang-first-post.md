@@ -5,7 +5,7 @@ date: 2020-03-24
 permalink: /first-post/
 ---
 
-<h1 style="text-align: center; color: 173CCE">COVID-19</h1>
+<h1 style="text-align: center; color:blue">COVID-19</h1>
 <p style="font-size: 150%; text-align: center">covid19@pandemic.edu
 <br>+1(919)-191-2020
 <br>linkedin.com/in/covid-19</p>
@@ -18,20 +18,29 @@ permalink: /first-post/
 
 <h2>BASIC INFORMATION</h2>
 <p>
-	Name: Covid-19   
-	Nickname: Coronavirus
-	Sex: People call me Miss but I'm actually a non-binary
-	Pronouns: it/it/its
-	D.O.B: Unknown but roughly around 12/31/2019
-	Hometown: Wuhan, Hubei, China
-	Address: Everywhere
-	Birth story: Humans ate bats and I was born
-	Symptoms for having me: fever, dry cough, tiredness and a general feeling of being unwell
+	Name: Coronavirus Disease 2019  
+	<br>Nickname: COVID-19
+	<br>Sex: Humans call me Miss but I'm actually a non-binary
+	<br>Pronouns: it/it/its
+	<br>D.O.B: Unknown but roughly around 12/31/2019
+	<br>Hometown: Wuhan, Hubei, China
+	<br>Address: Everywhere
+	<br>Birth story: Humans ate bats and I was born
+	<br>Symptoms for having me: fever, dry cough, tiredness and a general feeling of being unwell
 </p>
 
 <h2>EDUCATION</h2>
+<p>
+	Pandemic University, Earth 
+	BS in Destroying Global Health (expected 2021)
+	Relevant Coursework: Becoming a Novel Virus 200, Creating an Outbreak 150, Intro to Global Pandemic 101  
+	
+</p>
 
 <h2>SKILLS</h2>
+<p>
+	
+</p>
 
 <h2>RELATED EXPERIENCE</h2>
 
