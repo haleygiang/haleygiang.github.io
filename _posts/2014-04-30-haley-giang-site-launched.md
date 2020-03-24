@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Reflections on Coronavirus Outbreak"
+title: "Self-quarantine during Coronavirus Outbreak"
 date: 2020-03-24
 ---
 
-Reflection on Coronavirus Outbreak.
+Some Reflections on Self-quarantine time during the Coronavirus Outbreak
