@@ -4,14 +4,14 @@ layout: feed
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-	<title>Hank Quinlan's CV</title>
-	<link href="http://hankquinlan.github.io/cv/atom.xml" rel="self"/>
-	<link href="http://hankquinlan.github.io/cv"/>
+	<title>Haley Giang's CV</title>
+	<link href="http://haleygiang.github.io/cv/atom.xml" rel="self"/>
+	<link href="http://haleygiang.github.io/cv"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
-	<id>http://hankquinlan.github.io/cv</id>
+	<id>http://haleygiang.github.io/cv</id>
 	<author>
-		<name>Hank Quinlan</name>
-		<email>hankquinlanhub@gmail.com</email>
+		<name>Haley Giang</name>
+		<email>hgiang@oberlin.edu</email>
 	</author>
 
 </feed>
