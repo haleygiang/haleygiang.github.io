@@ -5,7 +5,7 @@ date: 2020-03-24
 permalink: /first-post/
 ---
 
-<h1>COVID-19</h1>
+<h1 style="text-align: center;">COVID-19</h1>
 <p style="font-size: 100%;">covid19@pandemic.edu
 <br>+1(919)-191-2020
 <br>linkedin.com/in/covid-19</p>
