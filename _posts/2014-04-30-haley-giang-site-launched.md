@@ -6,7 +6,7 @@ permalink: /first-post/
 ---
 
 <h1 style="text-align: center;">COVID-19</h1>
-<p style="font-size: 100%;">covid19@pandemic.edu
+<p style="font-size: 150%;" style="text-align: center">covid19@pandemic.edu
 <br>+1(919)-191-2020
 <br>linkedin.com/in/covid-19</p>
 <hr>
