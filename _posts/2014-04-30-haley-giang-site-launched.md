@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Haley Giang Launches Site"
+title: "Reflections on Coronavirus Outbreak"
 date: 2020-03-24
 ---
 
