@@ -5,11 +5,11 @@ date: 2020-03-24
 permalink: /first-post/
 ---
 
-<h3>COVID-19</h3>
-<p>covid19@pandemic.edu</p>
-<p>+1(919)-191-2020</p>
-<p>linkedin.com/in/covid-19</p>
-<p>hello</p>
+<h2>COVID-19</h2>
+<p>covid19@pandemic.edu
+<br>+1(919)-191-2020
+<br>linkedin.com/in/covid-19</p>
+
 
 
 
