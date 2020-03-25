@@ -6,8 +6,8 @@ permalink: /first-post/
 ---
 
 <h1 style="text-align: center; color:blue">COVID-19</h1>
+<img src="corona1.jpg" alt="Coronavirus" style="display: inline-block;width:100px;height:100px;">
 <p style="font-size: 150%; text-align: center; color:red">
-	<img src="corona1.jpg" alt="Coronavirus" style="float:left;">
 covid19@pandemic.edu
 <br>+1(919)-191-2020
 <br>linkedin.com/in/covid-19</p>
