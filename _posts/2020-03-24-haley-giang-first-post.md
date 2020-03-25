@@ -48,6 +48,7 @@ permalink: /first-post/
 	<br>Kick all college students out of their campuses
 	<br>Force humans to stay home and reflect on their mistakes
 	<br>Lock countries down and close borders 
+	<br>Be the center of the world's attention
 	
 </p>
 
