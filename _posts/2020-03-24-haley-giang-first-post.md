@@ -22,8 +22,8 @@ covid19@pandemic.edu
 <p>
 	Name: Coronavirus Disease 2019  
 	<br>Nickname: Covid-19
-	<br>Sex: Humans call me Miss but I'm actually a non-binary
-	<br>Pronouns: it/it/its
+	<br>Sex: Humans call me Miss 
+	<br>Pronouns: she/her/hers
 	<br>D.O.B: Unknown but roughly around 12/31/2019
 	<br>Hometown: Wuhan, Hubei, China
 	<br>Address: Everywhere
