@@ -1,6 +1,11 @@
 body {
     margin: 60px auto;
     width: 70%;
+    background-color: rgb(239,222,205);
+    background-image: url('https://drive.google.com/file/d/1E70zAWBOSaUobR6adaIiE9EhNJIyEmBU/view?usp=sharing');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -27,7 +32,6 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    background-color: rgb(239,222,205);
 }
 footer {
     border-top: 1px solid #d5d5d5;
