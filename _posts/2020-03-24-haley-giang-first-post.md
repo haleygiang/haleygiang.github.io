@@ -66,6 +66,9 @@ covid19@pandemic.edu
 		font-size: 1.5em;
 		color:rgb(175,0,42);
 	}
+	p{
+		font-size: 100%;
+	}
 </style>
 
 
