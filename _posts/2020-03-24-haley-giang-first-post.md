@@ -64,6 +64,7 @@ covid19@pandemic.edu
 	h2{
 		font-family: 'Varela', 'Verdana', 'Geneva', 'sans-serif';
 		font-size: 1.5em;
+		color:rgb(175,0,42);
 	}
 </style>
 
