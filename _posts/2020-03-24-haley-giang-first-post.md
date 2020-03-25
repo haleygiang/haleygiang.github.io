@@ -7,7 +7,7 @@ permalink: /first-post/
 
 <h1 style="text-align: center; color:blue">COVID-19</h1>
 <img src="coronavirus.jpg" alt="Coronavirus" width="200" height="200" align="center">
-<p style="font-size: 150%; text-align: center; color:red">
+<p style="font-size: 100%; text-align: center; color:red">
 covid19@pandemic.edu
 <br>+1(919)-191-2020
 <br>linkedin.com/in/covid-19</p>
@@ -60,5 +60,11 @@ covid19@pandemic.edu
 <h2>AWARDS AND HONORS</h2>
 <p>The scariest thing in 2020 so far.</p>
 
+<style>
+	h2{
+		font-family: 'Varela', 'Verdana', 'Geneva', 'sans-serif';
+		font-size: 1.5em;
+	}
+</style>
 
 
