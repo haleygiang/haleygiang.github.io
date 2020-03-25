@@ -1,7 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: rgb(255, 99, 71);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -23,13 +22,12 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    background-color: blue;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
-    background-color: tomato;
+    background-color: rgb(239,222,205);
 }
 footer {
     border-top: 1px solid #d5d5d5;
