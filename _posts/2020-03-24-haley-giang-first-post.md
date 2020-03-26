@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Coronavirus' Resume"
+title: "Covid-19's Resume"
 date: 2020-03-24
 permalink: /first-post/
 ---
