@@ -26,13 +26,13 @@ permalink: /obie-food/
 <div class="blurb">
 <ol>
 	<li>Display of Restaurants</li>
-	<img src="https://github.com/haleygiang/haleygiang.github.io/blob/master/_assets/images/homepage.png" alt="Homepage" align="center">
+	<img src="https://github.com/haleygiang/haleygiang.github.io/blob/master/_assets/images/homepage.png" alt="Home" align="center">
 	<li>Menu and Selections</li>
-	<img src="/_assets/images/selection.png" alt="Menu and Selections" align="center">
+	<img src="/_assets/images/selection.png" alt="Menu" align="center">
 	<li>Payment and Address</li>
-	<img src="/Users/trungx/Desktop/haleygiang.github.io/_assets/images/address.png" alt="Payment and Address" align="center">
+	<img src="/Users/trungx/Desktop/haleygiang.github.io/_assets/images/address.png" alt="Payment" align="center">
 	<li>Delivery Time Tracking</li>
-	<img src="delivery.png" alt="Delivery Time Tracking" align="center">
+	<img src="delivery.png" alt="Tracking" align="center">
 </ol>
 </div><!-- /.blurb -->
 
