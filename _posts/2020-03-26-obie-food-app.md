@@ -25,6 +25,7 @@ permalink: /obie-food/
 </p>
 <ol>
 	<li>Display of Restaurants</li>
+	![Homepage](homepage.png)
 	<img src="homepage.png" alt="Homepage" align="center">
 	<li>Menu and Selections</li>
 	<li>Payment and Address</li>
