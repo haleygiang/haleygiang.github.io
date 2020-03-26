@@ -25,7 +25,7 @@ permalink: /obie-food/
 </p>
 
 1. Display of Restaurants
-![Home Page]({{site.url}}/obie-food/_assets/images/homepage.png)
+![Home Page]({{site.url}}/_assets/images/homepage.png)
 2. Menu and Selections
 ![Menu](/_assets/images/selection.png)
 3. Payment and Address
