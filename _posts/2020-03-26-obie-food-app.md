@@ -23,7 +23,8 @@ permalink: /obie-food/
 <p>
 	I used Android Studio for the first time to build the MVP model. The model has 4 pages representing the 4 primary functions of the app:
 </p>
-<div class="blurb">
+
+![Home Page](../assets/images/homepage.png)
 <ol>
 	<li>Display of Restaurants</li>
 	<img src="../assets/images/homepage.png" alt="Homepage" align="center">
@@ -34,7 +35,7 @@ permalink: /obie-food/
 	<li>Delivery Time Tracking</li>
 	<img src="../assets/images/delivery.png" alt="Tracking" align="center">
 </ol>
-</div><!-- /.blurb -->
+
 
 <h2>When and Where?</h2>
 <p>The Startup Weekend where our pitch happened took place during the last week of September 2019, which was my first semester at Oberlin College.</p>
