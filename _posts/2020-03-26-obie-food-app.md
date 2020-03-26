@@ -25,7 +25,6 @@ permalink: /obie-food/
 </p>
 <ol>
 	<li>Display of Restaurants</li>
-	![image](../images/leaves.jpg)
 	<img src="https://github.com/haleygiang/haleygiang.github.io/blob/master/_assets/images/homepage.png" alt="Homepage" align="center">
 	<li>Menu and Selections</li>
 	<img src="/assets/images/leaves.jpg" alt="Menu and Selections" align="center">
@@ -36,5 +35,6 @@ permalink: /obie-food/
 </ol>
 
 <h2>When and Where?</h2>
+<p>The Startup Weekend where our pitch happened took place during the last week of September 2019, which was my first semester at Oberlin College.</p>
 
 
