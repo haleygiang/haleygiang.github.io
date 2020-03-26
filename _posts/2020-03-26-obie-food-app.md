@@ -25,10 +25,13 @@ permalink: /obie-food/
 </p>
 <ol>
 	<li>Display of Restaurants</li>
+	<img src="homepage.png" alt="Homepage" align="center">
 	<li>Menu and Selections</li>
-	<li>Hello</li>
+	<img src="selection.png" alt="Menu and Selections" align="center">
 	<li>Payment and Address</li>
+	<img src="address.png" alt="Payment and Address" align="center">
 	<li>Delivery Time Tracking</li>
+	<img src="delivery.png" alt="Delivery Time Tracking" align="center">
 </ol>
 
 <h2>When and Where?</h2>
