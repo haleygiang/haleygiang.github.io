@@ -25,7 +25,7 @@ permalink: /obie-food/
 </p>
 
 1. Display of Restaurants
-![Home Page]({{site.url}}/_assets/images/homepage.png)
+![Home Page]({{site.url}}/obie-food/_assets/images/homepage.png)
 2. Menu and Selections
 ![Menu](/_assets/images/selection.png)
 3. Payment and Address
@@ -35,7 +35,7 @@ permalink: /obie-food/
 
 <ol>
 	<li>Display of Restaurants</li>
-	<img src="/_assets/images/homepage.png" alt="Homepage" width="200" height="200"align="center">
+	<img src="/_assets/images/homepage.png" alt="Homepage" width="200" height="200" align="center">
 	<li>Menu and Selections</li>
 	<img src="/_assets/images/selection.png" alt="Menu" align="center">
 	<li>Payment and Address</li>
