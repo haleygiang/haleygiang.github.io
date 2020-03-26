@@ -25,6 +25,7 @@ permalink: /obie-food/
 </p>
 <ol>
 	<li>Display of Restaurants</li>
+	<img src="homepage.png" alt="Homepage" align="center">
 	<li>Menu and Selections</li>
 	<li>Payment and Address</li>
 	<li>Delivery Time Tracking</li>
@@ -32,4 +33,12 @@ permalink: /obie-food/
 
 <h2>When and Where?</h2>
 
+<style>
+	ol{
+		font-size: 1.0em;
+	    font-family: 'Varela', 'Verdana', 'Geneva', 'sans-serif';
+	    line-height: 1.4em;
+	    color: #333;
+	}
+</style>
 
