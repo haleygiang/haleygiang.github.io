@@ -27,7 +27,7 @@ permalink: /obie-food/
 	<li>Display of Restaurants</li>
 	<li>Menu and Selections</li>
 	<li>Payment and Address</li>
-	<li>Time and Delivery Track</li>
+	<li>Delivery Time Tracking</li>
 </ol>
 
 <h2>When and Where?</h2>
