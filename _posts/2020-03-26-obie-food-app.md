@@ -25,8 +25,10 @@ permalink: /obie-food/
 </p>
 <ol>
 	<li>Display of Restaurants</li>
+	![homepage](images/homepage.png)
 	<img src="homepage.png" alt="Homepage" align="center">
 	<li>Menu and Selections</li>
+	![menu](./selection.png)
 	<img src="selection.png" alt="Menu and Selections" align="center">
 	<li>Payment and Address</li>
 	<img src="address.png" alt="Payment and Address" align="center">
@@ -36,12 +38,4 @@ permalink: /obie-food/
 
 <h2>When and Where?</h2>
 
-<style>
-	ol{
-		font-size: 1.0em;
-	    font-family: 'Varela', 'Verdana', 'Geneva', 'sans-serif';
-	    line-height: 1.4em;
-	    color: #333;
-	}
-</style>
 
