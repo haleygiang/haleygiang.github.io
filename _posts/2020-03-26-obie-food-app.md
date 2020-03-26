@@ -25,8 +25,8 @@ permalink: /obie-food/
 </p>
 <ol>
 	<li>Display of Restaurants</li>
-	![image](/assets/images/homepage.png)
-	<img src="/assets/images/homepage.png" alt="Homepage" align="center">
+	![image](../assets/images/homepage.png)
+	<img src="https://github.com/haleygiang/haleygiang.github.io/blob/master/_assets/images/homepage.png" alt="Homepage" align="center">
 	<li>Menu and Selections</li>
 	<img src="/assets/images/selection.png" alt="Menu and Selections" align="center">
 	<li>Payment and Address</li>
