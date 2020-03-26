@@ -37,4 +37,8 @@ permalink: /obie-food/
 <h2>When and Where?</h2>
 <p>The Startup Weekend where our pitch happened took place during the last week of September 2019, which was my first semester at Oberlin College.</p>
 
+<h2>What Did I Learn?</h2>
+<h3>Skill Set</h3>
+<h3>Soft Skills</h3>
+
 
