@@ -28,9 +28,10 @@ permalink: /obie-food/
 	<li>Display of Restaurants</li>
 	<img src="https://github.com/haleygiang/haleygiang.github.io/blob/master/_assets/images/homepage.png" alt="Homepage" align="center">
 	<li>Menu and Selections</li>
-	<img src="/assets/images/leaves.jpg" alt="Menu and Selections" align="center">
+	<img src="/_assets/images/selection.png" alt="Menu and Selections" align="center">
+	<li>Hello</li>
 	<li>Payment and Address</li>
-	<img src="corona1.jpg" alt="Payment and Address" align="center">
+	<img src="address.png" alt="Payment and Address" align="center">
 	<li>Delivery Time Tracking</li>
 	<img src="delivery.png" alt="Delivery Time Tracking" align="center">
 </ol>
@@ -42,5 +43,6 @@ permalink: /obie-food/
 <h2>What Did I Learn?</h2>
 <h3>Skill Set</h3>
 <h3>Soft Skills</h3>
+<p>Leadership and teamwork.</p>
 
 
