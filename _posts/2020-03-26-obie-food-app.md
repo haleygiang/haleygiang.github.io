@@ -25,23 +25,23 @@ permalink: /obie-food/
 </p>
 
 1. Display of Restaurants
-![Home Page](../assets/images/homepage.png)
+![Home Page](/_assets/images/homepage.png)
 2. Menu and Selections
-![Menu](../assets/images/selection.png)
+![Menu](/_assets/images/selection.png)
 3. Payment and Address
-![Payment](../assets/images/address.jpg)
+![Payment](/_assets/images/address.jpg)
 4. Delivery Time Tracking
-![Tracking](../assets/images/delivery.png)
+![Tracking](/_assets/images/delivery.png)
 
 <ol>
 	<li>Display of Restaurants</li>
-	<img src="../assets/images/homepage.png" alt="Homepage" align="center">
+	<img src="/_assets/images/homepage.png" alt="Homepage" align="center">
 	<li>Menu and Selections</li>
-	<img src="../assets/images/selection.png" alt="Menu" align="center">
+	<img src="/_assets/images/selection.png" alt="Menu" align="center">
 	<li>Payment and Address</li>
-	<img src="../assets/images/address.png" alt="Payment" align="center">
+	<img src="/_assets/images/address.png" alt="Payment" align="center">
 	<li>Delivery Time Tracking</li>
-	<img src="../assets/images/delivery.png" alt="Tracking" align="center">
+	<img src="/_assets/images/delivery.png" alt="Tracking" align="center">
 </ol>
 
 
