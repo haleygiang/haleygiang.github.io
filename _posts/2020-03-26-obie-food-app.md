@@ -24,15 +24,6 @@ permalink: /obie-food/
 	I used Android Studio for the first time to build the MVP model. The model has 4 pages representing the 4 primary functions of the app:
 </p>
 
-1. Display of Restaurants
-![Home Page]({{site.url}}/_assets/images/homepage.png)
-2. Menu and Selections
-![Menu](/_assets/images/selection.png)
-3. Payment and Address
-![Payment](/_assets/images/address.jpg)
-4. Delivery Time Tracking
-![Tracking](/_assets/images/delivery.png)
-
 <ol>
 	<li>Display of Restaurants</li>
 	<img src="/_assets/images/homepage.png" alt="Homepage" width="200" height="200" align="center">
