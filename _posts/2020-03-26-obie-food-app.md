@@ -25,7 +25,7 @@ permalink: /obie-food/
 </p>
 
 
-<p>Click<a href="https://drive.google.com/drive/folders/1nrhwxy9exHWIcFMPHomAkcmELZBk1kB5?usp=sharing">this link</a>to see images of the MVP model</p>
+<p>Click <a href="https://drive.google.com/drive/folders/1nrhwxy9exHWIcFMPHomAkcmELZBk1kB5?usp=sharing" style="color:red">this link</a> to see images of the MVP model</p>
 
 <ol>
 	<li>Display of Restaurants</li>
