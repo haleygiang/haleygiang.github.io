@@ -24,15 +24,17 @@ permalink: /obie-food/
 	I used Android Studio for the first time to build the MVP model. The model has 4 pages representing the 4 primary functions of the app:
 </p>
 
+<div id="MVP model">
+	<p>Click</p>
+	<h3><a href="https://drive.google.com/drive/folders/1nrhwxy9exHWIcFMPHomAkcmELZBk1kB5?usp=sharing">this link</a></h3>
+	<p>to see images of the MVP model</p>
+</div>
+
 <ol>
 	<li>Display of Restaurants</li>
-	<img src="/_assets/images/homepage.png" alt="Homepage" width="200" height="200" align="center">
 	<li>Menu and Selections</li>
-	<img src="/_assets/images/selection.png" alt="Menu" align="center">
 	<li>Payment and Address</li>
-	<img src="/_assets/images/address.png" alt="Payment" align="center">
 	<li>Delivery Time Tracking</li>
-	<img src="/_assets/images/delivery.png" alt="Tracking" align="center">
 </ol>
 
 
