@@ -26,7 +26,7 @@ permalink: /obie-food/
 
 <div id="MVP model">
 	<p>Click</p>
-	<h3 style="color:#543a59"><a href="https://drive.google.com/drive/folders/1nrhwxy9exHWIcFMPHomAkcmELZBk1kB5?usp=sharing">this link</a></h3>
+	<h3 style="color:red"><a href="https://drive.google.com/drive/folders/1nrhwxy9exHWIcFMPHomAkcmELZBk1kB5?usp=sharing">this link</a></h3>
 	<p>to see images of the MVP model</p>
 </div>
 
