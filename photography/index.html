@@ -6,6 +6,15 @@ title: Haley Giang's Photography
 	<h1>{{ page.title }}</h1>
 	<h3>Film Camera</h3>
 	<p>hanoi, vietnam</p>
+
+	<div class="row">
+	  <div class="column">
+	    <img src="hanoi/000042.JPG" alt="hanoi">
+	  </div>
+	  <div class="column">
+	    <img src="hanoi/000052.JPG" alt="hanoi">
+	</div>
+
 	<img src="hanoi/000062.JPG" alt="haircut">
 	<img src="hanoi/000056.JPG" alt="hanoi">
 
@@ -19,5 +28,18 @@ title: Haley Giang's Photography
 		display: block;
 	  	margin-left: auto;
 	  	margin-right: auto;
+	}
+	/* Three image containers (use 25% for four, and 50% for two, etc) */
+	.column {
+	  float: left;
+	  width: 50%;
+	  padding: 5px;
+	}
+
+	/* Clear floats after image containers */
+	.row::after {
+	  content: "";
+	  clear: both;
+	  display: table;
 	}
 </style>
