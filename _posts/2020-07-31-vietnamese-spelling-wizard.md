@@ -13,15 +13,20 @@ permalink: /texttospeech/
 TTS service enables developers to synthesize natural-sounding Vietnamese speech with a wide range of voice (male, female) and Vietnamese accents (Northern, Middle and Southern accent). The service is accessible in the form of APIs that is able to integrate easily with any system, across many applications and devices.
 </p>
 <p>
-Our product -- Vietnamese Spelling Wizard (or BeDanhVan) --  is an application utilizing TTS to assist kids (age range 3-8) in recognizing, spelling, and pronunciating Vietnamese words. The package includes animated flashcards and sound along with fairytales, games for kids to truly have an amazing time learning.
+Our product -- Vietnamese Spelling Wizard (or BeDanhVan) --  is an application utilizing TTS to assist kids (age range 3-8) in recognizing, spelling, and pronunciating Vietnamese words. The platform includes animated flashcards and sound along with fairytales, games for kids to truly have an amazing time learning.
 </p>
 
 <h2>Why?</h2>
 <p>
+Our goal is to find a way to elegantly integrate technology and education to alleviate the hardwork of parents and teachers everywhere in Vietnam, especially when more and more things are being transferred to online platform in light of Covid-19. 
+</p>
+<p>
+In the future, we hope to collaborate with The Ministry of Education and Training to bring our product to more kindergartens and primary schools in Vietnam, fostering a sterling and conducive learning environment.
 </p>
 
 <h2>How?</h2>
 <p>
+
 </p> 
 
 <h2>When and Where?</h2>
