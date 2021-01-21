@@ -22,6 +22,14 @@ body, html {
     font-family: josefine;
     src: url('assets/fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf');
 }
+@font-face {
+    font-family: nunito;
+    src: url('assets/fonts/Nunito/Nunito-Regular.ttf');
+}
+@font-face {
+    font-family: nerko;
+    src: url('assets/fonts/Nerko_One/NerkoOne-Regular.ttf');
+}
 
 /* HEADER */
 .header-image {
@@ -37,8 +45,8 @@ body, html {
     top: 34%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* color: #A13941FF; */
     color: #6d0404;
+    font-family: yuseiMagic;
 }
 #header-text-hi {
     font-size: 2vw;
@@ -131,7 +139,7 @@ body, html {
 #about-container {
     /* background-color: #E8ECE9; */
     text-align: left;
-    height: 92vh;
+    height: 95vh;
     width: 100vw;
     font-family: yuseiMagic;
 }
@@ -165,19 +173,15 @@ body, html {
 
 #about-header {
     color: black;
-    /* text-transform: uppercase; */
     padding-top: 30px;
+    text-align: center;
+    text-decoration: underline;
 }
 
 #about-1 {
     color: #a26c42;
     text-align: center;
     font-size: 35px;
-    /* background-color: #556156; */
-    /* border-radius: 20%; */
-    /* box-sizing: content-box; */
-    /* width: 70%;
-    align-self: center; */
 }
 
 .blinking{
@@ -479,7 +483,7 @@ body, html {
 #resume-container {
     /* background-color: antiquewhite; */
     display: flex;
-    font-family: yuseiMagic;
+    font-family: nunito;
 }
 #resume-header {
     justify-content: space-between;
@@ -529,7 +533,7 @@ body, html {
     background-color: antiquewhite;
     height: 100vh;
     width: 100vw;
-    font-family: syne;
+    font-family: yuseiMagic;
 }
 #contact-header {
     text-align: right;
@@ -540,6 +544,9 @@ body, html {
 .contact-text, .social {
     text-align: center;
     letter-spacing: 2px;
+}
+.contact-text {
+    font-size: 25px;
 }
 .contact-section{
     text-align: justify;
