@@ -1,241 +1,387 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+      crossorigin="anonymous"
+    />
     <title>Haley Giang</title>
-</head>
-<body style="font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">
+  </head>
+  <body
+    style="
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
+        sans-serif;
+    "
+  >
     <!-- header -->
     <header class="header-image">
-        <section class="header-text">
-            <p id="header-text-hi">hi, i'm</p>
-            <p id="header-text-name">haley giang</p>
-        </section>
+      <section class="header-text">
+        <p id="header-text-hi">hi, i'm</p>
+        <p id="header-text-name">haley giang</p>
+      </section>
     </header>
 
     <!-- main -->
     <main class="main-wrapper">
-        <!-- navbar -->
-        <nav id="navbar">
-            <a class="nav-btn" id="nav-contact" onclick="navigate('contact-container')">contact.</a>
-            <a class="nav-btn" id="nav-resume" onclick="navigate('resume-container')">resume.</a>
-            <a class="nav-btn" id="nav-projects" onclick="navigate('projects-container')">projects.</a>
-            <a class="nav-btn" id="nav-about" onclick="navigate('about-container')">about.</a>
-            <!-- <span id="logo">haley giang</span> -->
-        </nav>
+      <!-- navbar -->
+      <nav id="navbar">
+        <a
+          class="nav-btn"
+          id="nav-contact"
+          onclick="navigate('contact-container')"
+          >contact.</a
+        >
+        <a
+          class="nav-btn"
+          id="nav-resume"
+          onclick="navigate('resume-container')"
+          >resume.</a
+        >
+        <a
+          class="nav-btn"
+          id="nav-projects"
+          onclick="navigate('projects-container')"
+          >projects.</a
+        >
+        <a class="nav-btn" id="nav-about" onclick="navigate('about-container')"
+          >about.</a
+        >
+        <!-- <span id="logo">haley giang</span> -->
+      </nav>
 
-        <!-- sections -->
-        <section class="content">
-            <!-- about -->
-            <section class="section-container row-about" id="about-container">
-                <!-- about info -->
-                <section class="col-about left-about">
-                    <h1 class="section-header" id="about-header">a b o u t .</h1>
-                    <!-- <br> -->
-                    <!-- <p id="about-1" class="blinking">Hey there, I'm Haley!</p> -->
-                    <p id="about-2" style="font-family: yuseiMagic;">learner, explorer, creator.</p>
-                    <p id="about-3"> 
-                        • I was born and raised in Hanoi, Vietnam, a country of exquisite cuisines ♡
-                        <br> • I'm currently a sophomore Computer Science and Mathematics double major at Oberlin College, Ohio, US. 
-                        <br> • When I'm not studying or working, I immerse myself in the magical world of travelling, painting, film photography, dance, books, and delicious food! 
-                        <br> • Click this <span id="art-link" onclick="NewTabArt()">LINK</span> or the images on the right to see some of my art works. I would love for you to check them out! 
-                    </p>
-                </section>
+      <!-- sections -->
+      <section class="content">
+        <!-- about -->
+        <section class="section-container row-about" id="about-container">
+          <!-- about info -->
+          <section class="col-about left-about">
+            <h1 class="section-header" id="about-header">a b o u t .</h1>
+            <!-- <br> -->
+            <!-- <p id="about-1" class="blinking">Hey there, I'm Haley!</p> -->
+            <p id="about-2" style="font-family: yuseiMagic">
+              learner, explorer, creator.
+            </p>
+            <p id="about-3">
+              • I was born and raised in Hanoi, Vietnam, a country of exquisite
+              cuisines ♡
+              <br />
+              • I'm currently a sophomore Computer Science and Mathematics
+              double major at Oberlin College, Ohio, US. <br />
+              • When I'm not studying or working, I immerse myself in the
+              magical world of travelling, painting, film photography, dance,
+              books, and delicious food! <br />
+              • Click this
+              <span id="art-link" onclick="NewTabArt()">LINK</span> or the
+              images on the right to see some of my art works. I would love for
+              you to check them out!
+            </p>
+          </section>
 
-                <!-- art slide show -->
-                <section class="col-about right-about">
-                    <section class="slideshow-container">
-                        <div class="slide slide-fade" onclick="NewTabArt()">
-                            <img src="assets/about/000052.JPG" alt="error" class="slide-img">
-                        </div>
-                        <div class="slide slide-fade" onclick="NewTabArt()">
-                            <img src="assets/about/000042.JPG" alt="error" class="slide-img">
-                        </div>
-                        <div class="slide slide-fade" onclick="NewTabArt()">
-                            <img src="assets/about/000056.JPG" alt="error" class="slide-img">
-                        </div>
-                        <div class="slide slide-fade" onclick="NewTabArt()">
-                            <img src="assets/about/000059.JPG" alt="error" class="slide-img">
-                        </div>
+          <!-- art slide show -->
+          <section class="col-about right-about">
+            <section class="slideshow-container">
+              <div class="slide slide-fade" onclick="NewTabArt()">
+                <img
+                  src="assets/about/000052.JPG"
+                  alt="error"
+                  class="slide-img"
+                />
+              </div>
+              <div class="slide slide-fade" onclick="NewTabArt()">
+                <img
+                  src="assets/about/000042.JPG"
+                  alt="error"
+                  class="slide-img"
+                />
+              </div>
+              <div class="slide slide-fade" onclick="NewTabArt()">
+                <img
+                  src="assets/about/000056.JPG"
+                  alt="error"
+                  class="slide-img"
+                />
+              </div>
+              <div class="slide slide-fade" onclick="NewTabArt()">
+                <img
+                  src="assets/about/000059.JPG"
+                  alt="error"
+                  class="slide-img"
+                />
+              </div>
 
-                        <!-- <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+              <!-- <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
                         <a class="next" onclick="plusSlides(1)">&#10095;</a>     -->
-                    </section>
-                    <div style="text-align:center">
-                        <span class="dot" onclick="currentSlide(1)"></span> 
-                        <span class="dot" onclick="currentSlide(2)"></span> 
-                        <span class="dot" onclick="currentSlide(3)"></span>
-                        <span class="dot" onclick="currentSlide(4)"></span>
-                    </div>
-                </section>
             </section>
-
-            <!-- projects -->
-            <section class="section-container" id="projects-container">
-                <h1 class="section-header" id="projects-header">p r o j e c t s .</h1>
-                <p id="projects-text">
-                    I aspire to be a Software Engineer.<br>
-                    Here are some of my technical projects!
-                </p>
-                <!-- project cards -->
-                <main class="row-projects">
-                    <section class="col-projects col-pro-1">
-                        <!-- spacing -->
-                    </section>
-                    <section class="col-projects col-pro-2" id="main-col-1">
-                        <figure class="col-pro-card">
-                            <img src="assets/projects/wecare2.jpg" alt="We Care" class="card-img" id="card-wecare">
-                            <!-- We Care -->
-                            <div class="layer-top">
-                                <div class="layer-top-text">
-                                    <h3 class="pro-title">We Care</h3>
-                                    <div class="pro-description">
-                                        <p class="pro-details">A mobile app that connects users to health experts 
-                                            for primary diagnosis and helps locate the nearest local clinics or hospitals.</p>
-                                        <div class="pro-tags">
-                                            <p><strong class="tag">#Tags:</strong><br>React Native, Bootstrap</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </figure>
-                    </section>
-                    <section class="col-projects col-pro-3">
-                        <!-- spacing -->
-                    </section>
-                    <section class="col-projects col-pro-4" id="main-col-2">
-                        <figure class="col-pro-card">
-                            <img src="assets/projects/bedanhvan.jpg" alt="Be Danh Van" class="card-img" id="card-bedanhvan">
-                            
-                            <!-- Be Danh Van -->
-                            <div class="layer-top">
-                                <div class="layer-top-text">
-                                    <h3 class="pro-title">Vietnamese Wizard</h3>
-                                    <div class="pro-description">
-                                        <p class="pro-details">A web app that deintegrates Vietnamese words to their phonetic transcriptions
-                                            to assist users in learning the language. 
-                                        </p>
-                                        <div class="pro-tags">
-                                            <p><strong class="tag">#Tags:</strong><br>JavaScript, Node.js, Text-to-Speech API</p>
-                                        </div>
-                                    </div>                                
-                                </div>
-                            </div>
-                        </figure>
-                    </section>
-                    <section class="col-projects col-pro-5">
-                        <!-- spacing -->
-                    </section>
-                </main>
-                <main class="row-projects">
-                    <section class="col-projects col-pro-1">
-                    </section>
-                    <section class="col-projects col-pro-2" id="main-col-3">
-                        <figure class="col-pro-card">
-                            <img src="assets/projects/obiefood.png" alt="ObieFood" class="card-img" id="card-obiefood">
-                            
-                            <!-- ObieFood -->
-                            <div class="layer-top">
-                                <div class="layer-top-text">
-                                    <h3 class="pro-title">ObieFood</h3>
-                                    <div class="pro-description">
-                                        <p class="pro-details">
-                                            An Android food-delivery app that allows college students to order (and deliver) local food with low-cost price.
-                                        </p>
-                                        <!-- <br> -->
-                                        <div class="pro-tags">
-                                            <p><strong class="tag">#Tags:</strong><br>Android Studio, Java</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </figure>
-                    </section>
-                    <section class="col-projects col-pro-3" >
-                        <!-- spacing -->
-                    </section>
-                    <section class="col-projects col-pro-4" id="main-col-4">
-                        <figure class="col-pro-card">
-                            <img src="assets/projects/email1.jpg" alt="Temp Project" class="card-img" id="card-temp">
-
-                            <!-- Loading Project -->
-                            <div class="layer-top">
-                                <div class="layer-top-text">
-                                    <h3 class="pro-title">Loading Project</h3>
-                                    <div class="pro-description">
-                                        <p class="pro-details">An interesting project coming soon...</p>
-                                        <br>
-                                        <p></p>
-                                        <div class="pro-tags">
-                                            <p><strong class="tag">#Tags:</strong><br>...</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </figure>
-                    </section>
-                    <section class="col-projects col-pro-5">
-                        <!-- spacing -->
-                    </section>
-                </main>
-
-            </section>
-
-            <!-- resume -->
-            <section class="section-container" id="resume-container">
-                <h1 class="section-header" id="resume-header">r e s u m e .</h1>
-                <main class="row-resume" id="resume-content">
-                    <section class="col-resume" id="col-resume-left">
-                        <p id="resume-text">For more details about my experience, please refer to this <span id="resume-link" onclick="NewTabResume()">Resume</span>.</p>
-                    </section>
-                    <section class="col-resume" id="col-resume-right">
-                        <img src="assets/resume/resume.jpg" alt="Resume" class="resume-img" id="resume-img" onclick="NewTabResume()">
-                    </section>
-                </main>
-            </section>
-
-            <!-- contact -->
-            <section class="section-container" id="contact-container">
-                <h1 class="section-header" id="contact-header">c o n t a c t .</h1>
-                <main id="contact-main">
-                    <p class="contact-text">
-                    "Call me, beep me, if you wanna reach me" - Kim Possible
-                    </p>
-                    <br>
-                    <hr>
-                    <section class="contact-section" id="email">
-                        <img src="assets/contact/gmail.png" alt="gmail" class="icon">
-                        <span><a href="mailto:hgiang@oberlin.edu" class="social">hgiang@oberlin.edu</a></span>
-                    </section>
-                    <br>
-                    <section class="contact-section" id="linkedin">
-                        <img src="assets/contact/linkedin.png" alt="linked in" class="icon">
-                        <span><a href="https://www.linkedin.com/in/huyen-haley-giang-49580b192/" class="social">linkedin.com/in/huyen-haley-giang/</a></span>
-                    </section>
-                    <br>
-                    <section class="contact-section" id="github">
-                        <img src="assets/contact/github.png" alt="git hub" class="icon">
-                        <span><a href="https://github.com/haleygiang" class="social">github.com/haleygiang</a></span>
-                    </section>
-                    <hr>
-                </main>
-                
-                
-            </section>
+            <div style="text-align: center">
+              <span class="dot" onclick="currentSlide(1)"></span>
+              <span class="dot" onclick="currentSlide(2)"></span>
+              <span class="dot" onclick="currentSlide(3)"></span>
+              <span class="dot" onclick="currentSlide(4)"></span>
+            </div>
+          </section>
         </section>
+
+        <!-- projects -->
+        <section class="section-container" id="projects-container">
+          <h1 class="section-header" id="projects-header">p r o j e c t s .</h1>
+          <p id="projects-text">
+            I aspire to be a Software Engineer.<br />
+            Here are some of my technical projects!
+          </p>
+          <!-- project cards -->
+          <main class="row-projects">
+            <section class="col-projects col-pro-1">
+              <!-- spacing -->
+            </section>
+
+            <!-- COL2 -->
+            <section
+              class="col-projects col-pro-2 card-open-tab"
+              id="main-col-2"
+              onclick="NewTabYelpCamp()"
+            >
+              <figure class="col-pro-card">
+                <img
+                  src="assets/projects/yelpcamp2.jpeg"
+                  alt="Yelp Camp"
+                  class="card-img"
+                />
+
+                <!-- Yelp Camp -->
+                <div class="layer-top">
+                  <div class="layer-top-text">
+                    <h3 class="pro-title">Yelp Camp</h3>
+                    <div class="pro-description">
+                      <p class="pro-details">
+                        Social Networking site that lets users post, review, and
+                        rate camping sites all around the world. Made for
+                        camping lovers!
+                      </p>
+                      <!-- <br /> -->
+                      <p></p>
+                      <div class="pro-tags">
+                        <p>
+                          <strong class="tag">#Tags:</strong><br />JavaScript,
+                          Node.js, Express, MongoDB, Mongoose, Heroku
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </figure>
+            </section>
+            <section class="col-projects col-pro-3">
+              <!-- spacing -->
+            </section>
+
+            <section class="col-projects col-pro-4" onclick="NewTabWeCare()">
+              <figure class="col-pro-card">
+                <img
+                  src="assets/projects/wecare3.jpeg"
+                  alt="We Care"
+                  class="card-img"
+                  id="card-wecare"
+                />
+                <!-- We Care -->
+                <div class="layer-top">
+                  <div class="layer-top-text">
+                    <h3 class="pro-title">We Care</h3>
+                    <div class="pro-description">
+                      <p class="pro-details">
+                        A mobile app that connects users to health experts for
+                        primary diagnosis and helps locate the nearest local
+                        clinics or hospitals.
+                      </p>
+                      <div class="pro-tags">
+                        <p>
+                          <strong class="tag">#Tags:</strong><br />React Native,
+                          Bootstrap, Expo
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </figure>
+            </section>
+
+            <section class="col-projects col-pro-5">
+              <!-- spacing -->
+            </section>
+          </main>
+
+          <main class="row-projects">
+            <section class="col-projects col-pro-1"></section>
+
+            <section
+              class="col-projects col-pro-2 card-open-tab"
+              onclick="NewTabSpelling()"
+            >
+              <figure class="col-pro-card">
+                <img
+                  src="assets/projects/spelling.jpeg"
+                  alt="Be Danh Van"
+                  class="card-img"
+                  id="card-bedanhvan"
+                />
+
+                <!-- Be Danh Van -->
+                <div class="layer-top">
+                  <div class="layer-top-text">
+                    <h3 class="pro-title">Vietnamese Wizard</h3>
+                    <div class="pro-description">
+                      <p class="pro-details">
+                        A web app that deintegrates Vietnamese words to their
+                        phonetic transcriptions to assist users in learning the
+                        language.
+                      </p>
+                      <div class="pro-tags">
+                        <p>
+                          <strong class="tag">#Tags:</strong><br />JavaScript,
+                          Node.js, Text-to-Speech API
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </figure>
+            </section>
+            <section class="col-projects col-pro-3">
+              <!-- spacing -->
+            </section>
+
+            <section
+              class="col-projects col-pro-4 card-open-tab"
+              onclick="NewTabObieFood()"
+            >
+              <figure class="col-pro-card">
+                <img
+                  src="assets/projects/obiefood3.jpeg"
+                  alt="ObieFood"
+                  class="card-img"
+                  id="card-obiefood"
+                />
+
+                <!-- ObieFood -->
+                <div class="layer-top">
+                  <div class="layer-top-text">
+                    <h3 class="pro-title">ObieFood</h3>
+                    <div class="pro-description">
+                      <p class="pro-details">
+                        An Android food-delivery app that allows college
+                        students to order (and deliver) local food with low-cost
+                        price.
+                      </p>
+                      <!-- <br> -->
+                      <div class="pro-tags">
+                        <p>
+                          <strong class="tag">#Tags:</strong><br />Android
+                          Studio, Java
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </figure>
+            </section>
+            <section class="col-projects col-pro-5">
+              <!-- spacing -->
+            </section>
+          </main>
+        </section>
+
+        <!-- resume -->
+        <section class="section-container" id="resume-container">
+          <h1 class="section-header" id="resume-header">r e s u m e .</h1>
+          <main class="row-resume" id="resume-content">
+            <section class="col-resume" id="col-resume-left">
+              <p id="resume-text">
+                For more details about my experience, please refer to this
+                <span id="resume-link" onclick="NewTabResume()">Resume</span>.
+              </p>
+            </section>
+            <section class="col-resume" id="col-resume-right">
+              <img
+                src="assets/resume/resume.jpg"
+                alt="Resume"
+                class="resume-img"
+                id="resume-img"
+                onclick="NewTabResume()"
+              />
+            </section>
+          </main>
+        </section>
+
+        <!-- contact -->
+        <section class="section-container" id="contact-container">
+          <h1 class="section-header" id="contact-header">c o n t a c t .</h1>
+          <main id="contact-main">
+            <p class="contact-text">
+              "Call me, beep me, if you wanna reach me" - Kim Possible
+            </p>
+            <br />
+            <hr />
+            <section class="contact-section" id="email">
+              <img src="assets/contact/gmail.png" alt="gmail" class="icon" />
+              <span
+                ><a href="mailto:hgiang@oberlin.edu" class="social"
+                  >hgiang@oberlin.edu</a
+                ></span
+              >
+            </section>
+            <br />
+            <section class="contact-section" id="linkedin">
+              <img
+                src="assets/contact/linkedin.png"
+                alt="linked in"
+                class="icon"
+              />
+              <span
+                ><a
+                  href="https://www.linkedin.com/in/huyen-haley-giang-49580b192/"
+                  class="social"
+                  >linkedin.com/in/huyen-haley-giang/</a
+                ></span
+              >
+            </section>
+            <br />
+            <section class="contact-section" id="github">
+              <img src="assets/contact/github.png" alt="git hub" class="icon" />
+              <span
+                ><a href="https://github.com/haleygiang" class="social"
+                  >github.com/haleygiang</a
+                ></span
+              >
+            </section>
+            <hr />
+          </main>
+        </section>
+      </section>
     </main>
-    
+
     <!-- footer -->
     <footer class="footer"></footer>
 
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+      integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+      crossorigin="anonymous"
+    ></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+      integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+      crossorigin="anonymous"
+    ></script>
     <script src="app.js"></script>
-</body>
+  </body>
 </html>

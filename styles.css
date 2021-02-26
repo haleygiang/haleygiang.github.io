@@ -475,8 +475,8 @@ body, html {
     display: block;
 }
 
-#card-temp {
-    filter: grayscale(100);
+.card-open-tab:hover {
+    cursor: pointer;
 }
 
 /* ~~~ resume ~~~ */
