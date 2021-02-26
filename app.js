@@ -57,7 +57,7 @@ function NewTabYelpCamp() {
     window.open("https://campingisfun.herokuapp.com/", '_blank')
 }
 function NewTabWeCare() {
-    window.open("", '_blank')
+    window.open("https://github.com/haleygiang/WeCare", '_blank')
 }
 function NewTabSpelling() {
     window.open("https://github.com/haleygiang/bedanhvan", '_blank')
